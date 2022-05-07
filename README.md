@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello </h1>
 
 ### :yum:   Me:
-- 😄 Pronouns: JeeL
+- 😄 Aka: JeeL
 - 💬 Ask me about pointers
 - 🌱 I’m currently learning C
 - 🔭 I am currently working to become Astek
