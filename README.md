@@ -1,6 +1,9 @@
-<h1 align="center">👋 Hello </h1>
+<h1 align="left">👋 Hello </h1>
 
-### :yum:   Me:
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyelalouf&show_icons=true&line_height=27&count_private=true">
+</p>
+
 - 😄 Aka: JeeL
 - 💬 Ask me about pointers
 - 🌱 I’m currently learning C
@@ -19,8 +22,3 @@
   	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :fire: My Stats:
-<p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=jeremyelalouf&show_icons=true&line_height=27&count_private=true">
-</p>
