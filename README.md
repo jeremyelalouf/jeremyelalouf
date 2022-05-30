@@ -12,6 +12,7 @@
 - :face_in_clouds: Do you need help ? no i use gdb
 - ⚡ Fun fact: I like music a lot and C a little bit more
 - 👯 I’m looking to collaborate on Embedded system :man_shrugging:
+- 🎮 I've just begin to play Lol
 
 ### :hammer_and_wrench:   Languages and Tools:
 
