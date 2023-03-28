@@ -6,8 +6,8 @@
 
 - 😄 Aka: JeeL
 - 💬 Ask me about pointers
-- 🌱 I’m currently learning C
-- 🔭 I am currently working to become Astek
+- 🌱 I’m currently learning C and C++
+- 🔭 I am an Astek
 - 📫 How to reach me: jeremy.elalouf@epitech.eu
 - :face_in_clouds: Do you need help ? no i use gdb
 - ⚡ Fun fact: I like music a lot and C a little bit more
