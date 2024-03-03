@@ -19,7 +19,7 @@
 <div>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
+	<img src="https://camo.githubusercontent.com/688dd146829df04a6ac17a8c9cd861188731e8df30a20b5dda5eb83a4548cf62/68747470733a2f2f7777772e72757374616365616e2e6e65742f6173736574732f72757374616365616e2d6f7269672d6e6f736861646f772e737667" title="rust" alt="rust" width="40" height="40"/>&nbsp;
   	<img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg"  title="NVIM" alt="NVIM" width="40" height="40"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Py" **alt="Py" width="40" height="40"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
